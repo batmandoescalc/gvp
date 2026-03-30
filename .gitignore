@@ -1,4 +1,5 @@
 .DS_Store
 docx_env
+text/*
 data/*
 *.csv
