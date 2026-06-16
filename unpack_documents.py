@@ -44,7 +44,10 @@ def load_documents(filepaths):
             corpus.append(f.read())
             filenames.append(os.path.basename(fp))
     print (f"Loaded {len(corpus)} documents")
-    titles = [s[4:-4] for s in filenames]  # remove numeric prefix and ".txt"
+
+    # clean up the filenames to extract titles for data merges
+    no_num = [re.sub(r'^[^A-Za-z]+', '', s) for s in filenames]  # remove leading non-letters
+    titles = [s[:-4] for s in no_num]  # remove ".txt"
     return corpus, filenames, titles
 
 
