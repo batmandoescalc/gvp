@@ -3,3 +3,5 @@ docx_env
 text/*
 data/*
 *.csv
+*.cpython-*.pyc
+*.ipynb_checkpoints
