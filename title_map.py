@@ -1,0 +1,22 @@
+title_map = {
+    'an easy job': 'easy job',
+    'aptitude ': 'aptitude',
+    'city of red midnight a hikayat': 'city of red midnight  a hikayat',
+    'home habitat range niche territory': 'home',
+    'lesprit de lescalier': 'lespirit',
+    'seven vampires a judge dee mystery': 'seven vampires',
+    'sinew and steel and what they told': 'sinew and steel and what they told ',
+    'sleeper': 'sleepr',
+    'spring love pichal pairi': 'spring love',
+    'sword  spore': 'sword and spore',
+    'the bookstore at the end of america': 'bookstore at the end of america',
+    'the far side of the universe': 'far side',
+    'the lay of lilyfinger': 'lay of lilyfinger',
+    'the locked coffin a judge dee mystery': 'the locked coffin',
+    'the red mother': 'red mother',
+    'the station of the twelfth': 'station of the twelfth',
+    'the trains that climb the winter tree': 'the trees that climb the winter tree',
+    'the trains that climb the winter tree': 'the trees that climb the winter tree',
+    'the visitor kill or cure': 'the visitor  kill or cure',
+    'the wonderful stag or the courtship of red elsie': 'wonderful stag'
+}
